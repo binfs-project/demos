@@ -1,0 +1,3 @@
+     cmd LC_LOAD_DYLINKER
+ cmdsize 32
+    name /usr/lib/dyld (offset 12)

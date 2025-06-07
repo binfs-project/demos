@@ -1,0 +1,11 @@
+sh_name:       .bss
+sh_type:       SHT_NOBITS
+sh_flags:      SHF_WRITE SHF_ALLOC
+sh_addr:       0x20038
+sh_offset:     65592
+sh_size:       8
+sh_link:       0
+sh_info:       0
+sh_addralign:  1
+sh_entsize:    0
+  

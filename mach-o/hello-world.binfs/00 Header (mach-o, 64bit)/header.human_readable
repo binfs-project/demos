@@ -1,0 +1,3 @@
+Mach header
+      magic  cputype cpusubtype    filetype ncmds sizeofcmds      flags
+ MH_CIGAM64    ARM64        ALL     EXECUTE    17       1056 NOUNDEFS DYLDLINK TWOLEVEL PIE

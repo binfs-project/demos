@@ -1,0 +1,18 @@
+Version:                                   0x1
+Common encodings array section offset:     0x1c
+Number of common encodings in array:       0x0
+Personality function array section offset: 0x1c
+Number of personality functions in array:  0x0
+Index array section offset:                0x1c
+Number of indices in array:                0x2
+Common encodings: (count = 0)
+Personality functions: (count = 0)
+Top level indices: (count = 2)
+  [0]: function offset=0x00003f50, 2nd level page offset=0x00000040, LSDA offset=0x00000040
+  [1]: function offset=0x00003f8c, 2nd level page offset=0x00000000, LSDA offset=0x00000040
+LSDA descriptors:
+Second level indices:
+  Second level index[0]: offset in section=0x00000040, base function offset=0x00003f50
+    Page encodings: (count = 1)
+      encoding[0]: 0x04000000
+    [0]: function offset=0x00003f50, encoding[0]=0x04000000

@@ -1,0 +1,11 @@
+sh_name:       78
+sh_type:       0xb
+sh_flags:      0x2
+sh_addr:       0x2b8
+sh_offset:     696
+sh_size:       240
+sh_link:       6
+sh_info:       3
+sh_addralign:  8
+sh_entsize:    24
+  

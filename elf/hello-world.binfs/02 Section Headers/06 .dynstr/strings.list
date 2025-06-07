@@ -1,0 +1,11 @@
+
+__libc_start_main
+__cxa_finalize
+printf
+abort
+libc.so.6
+GLIBC_2.17
+GLIBC_2.34
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_ITM_registerTMCloneTable

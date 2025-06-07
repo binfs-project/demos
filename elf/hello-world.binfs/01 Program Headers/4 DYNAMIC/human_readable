@@ -1,0 +1,8 @@
+p_type:    DYNAMIC
+p_flags:   RW
+p_offset:  0xfdd8
+p_vaddr:   0x1fdd8
+p_paddr:   0x1fdd8
+p_filesz:  0x1e0
+p_memsz:   0x1e0
+p_align:   0x8

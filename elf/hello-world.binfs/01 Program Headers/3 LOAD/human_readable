@@ -1,0 +1,8 @@
+p_type:    LOAD
+p_flags:   RW
+p_offset:  0xfdc8
+p_vaddr:   0x1fdc8
+p_paddr:   0x1fdc8
+p_filesz:  0x270
+p_memsz:   0x278
+p_align:   0x10000

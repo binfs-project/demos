@@ -1,0 +1,8 @@
+     cmd LC_BUILD_VERSION
+ cmdsize 32
+platform 1
+   minos 983552
+     sdk 983040
+  ntools 1
+    tool 3
+ version 73074435

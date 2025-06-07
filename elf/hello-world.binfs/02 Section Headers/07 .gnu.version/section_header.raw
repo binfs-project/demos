@@ -1,0 +1,11 @@
+sh_name:       94
+sh_type:       0x6fffffff
+sh_flags:      0x2
+sh_addr:       0x43c
+sh_offset:     1084
+sh_size:       20
+sh_link:       5
+sh_info:       0
+sh_addralign:  2
+sh_entsize:    2
+  

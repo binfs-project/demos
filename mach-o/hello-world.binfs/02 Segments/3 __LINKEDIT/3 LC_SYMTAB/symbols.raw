@@ -1,0 +1,17 @@
+n_strx  2
+n_type  15
+n_sect  1
+n_desc  16
+n_value 4294967296
+---
+n_strx  22
+n_type  15
+n_sect  1
+n_desc  0
+n_value 4294983504
+---
+n_strx  28
+n_type  1
+n_sect  0
+n_desc  256
+n_value 0

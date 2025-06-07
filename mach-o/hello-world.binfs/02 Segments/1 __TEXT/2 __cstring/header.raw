@@ -1,0 +1,12 @@
+  sectname __cstring
+   segname __TEXT
+      addr 0x00000100003f98
+      size 0x0000000000000e
+    offset 16280
+     align 2^0 (1)
+    reloff 0
+    nreloc 0
+     flags 0x2
+ reserved1 0
+ reserved2 0
+ reserved3 0

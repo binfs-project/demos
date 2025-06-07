@@ -1,0 +1,8 @@
+p_type:    PHDR
+p_flags:   R
+p_offset:  0x40
+p_vaddr:   0x40
+p_paddr:   0x40
+p_filesz:  0x1f8
+p_memsz:   0x1f8
+p_align:   0x8

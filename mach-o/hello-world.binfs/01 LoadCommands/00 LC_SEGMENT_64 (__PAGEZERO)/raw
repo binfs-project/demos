@@ -1,0 +1,11 @@
+      cmd LC_SEGMENT_64
+  cmdsize 72
+  segname __PAGEZERO
+   vmaddr 0x00000000000000
+   vmsize 0x00000100000000
+  fileoff 0
+ filesize 0
+  maxprot 0
+ initprot 0
+   nsects 0
+    flags 0x0

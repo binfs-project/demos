@@ -1,0 +1,11 @@
+sh_name:       .got
+sh_type:       SHT_PROGBITS
+sh_flags:      SHF_WRITE SHF_ALLOC
+sh_addr:       0x1ffb8
+sh_offset:     65464
+sh_size:       48
+sh_link:       0
+sh_info:       0
+sh_addralign:  8
+sh_entsize:    8
+  

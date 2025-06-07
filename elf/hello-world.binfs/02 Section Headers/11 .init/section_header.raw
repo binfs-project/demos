@@ -1,0 +1,11 @@
+sh_name:       142
+sh_type:       0x1
+sh_flags:      0x6
+sh_addr:       0x5b8
+sh_offset:     1464
+sh_size:       24
+sh_link:       0
+sh_info:       0
+sh_addralign:  4
+sh_entsize:    0
+  

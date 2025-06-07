@@ -1,0 +1,11 @@
+      cmd LC_SEGMENT_64
+  cmdsize 152
+  segname __DATA_CONST
+   vmaddr 0x00000100004000
+   vmsize 0x00000000004000
+  fileoff 16384
+ filesize 16384
+  maxprot rw-
+ initprot rw-
+   nsects 1
+    flags SG_READ_ONLY

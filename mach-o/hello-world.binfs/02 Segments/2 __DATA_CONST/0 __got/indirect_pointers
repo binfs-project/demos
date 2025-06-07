@@ -1,0 +1,3 @@
+Indirect symbols (1 entry)
+address            index name
+0x0000000000004000     2 _printf

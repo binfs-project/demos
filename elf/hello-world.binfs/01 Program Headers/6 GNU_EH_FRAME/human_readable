@@ -1,0 +1,8 @@
+p_type:    GNU_EH_FRAME
+p_flags:   R
+p_offset:  0x7bc
+p_vaddr:   0x7bc
+p_paddr:   0x7bc
+p_filesz:  0x3c
+p_memsz:   0x3c
+p_align:   0x4

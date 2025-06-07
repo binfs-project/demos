@@ -1,0 +1,8 @@
+p_type:    GNU_RELRO
+p_flags:   R
+p_offset:  0xfdc8
+p_vaddr:   0x1fdc8
+p_paddr:   0x1fdc8
+p_filesz:  0x238
+p_memsz:   0x238
+p_align:   0x1

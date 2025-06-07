@@ -1,0 +1,13 @@
+  sectname __got
+   segname __DATA_CONST
+      addr 0x00000100004000
+      size 0x00000000000008
+    offset 16384
+     align 2^3 (8)
+    reloff 0
+    nreloc 0
+      type S_NON_LAZY_SYMBOL_POINTERS
+attributes (none)
+ reserved1 1
+ reserved2 0
+ reserved3 0

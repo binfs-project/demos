@@ -1,0 +1,11 @@
+sh_name:       .strtab
+sh_type:       SHT_STRTAB
+sh_flags:      
+sh_addr:       0x0
+sh_offset:     67840
+sh_size:       585
+sh_link:       0
+sh_info:       0
+sh_addralign:  1
+sh_entsize:    0
+  

@@ -1,0 +1,11 @@
+sh_name:       132
+sh_type:       0x4
+sh_flags:      0x42
+sh_addr:       0x540
+sh_offset:     1344
+sh_size:       120
+sh_link:       5
+sh_info:       22
+sh_addralign:  8
+sh_entsize:    24
+  

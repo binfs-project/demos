@@ -1,0 +1,13 @@
+  sectname __text
+   segname __TEXT
+      addr 0x00000100003f50
+      size 0x0000000000003c
+    offset 16208
+     align 2^2 (4)
+    reloff 0
+    nreloc 0
+      type S_REGULAR
+attributes PURE_INSTRUCTIONS SOME_INSTRUCTIONS
+ reserved1 0
+ reserved2 0
+ reserved3 0

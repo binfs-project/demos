@@ -1,0 +1,11 @@
+sh_name:       .init_array
+sh_type:       SHT_INIT_ARRAY
+sh_flags:      SHF_WRITE SHF_ALLOC
+sh_addr:       0x1fdc8
+sh_offset:     64968
+sh_size:       8
+sh_link:       0
+sh_info:       0
+sh_addralign:  8
+sh_entsize:    8
+  

@@ -1,0 +1,11 @@
+sh_name:       .eh_frame_hdr
+sh_type:       SHT_PROGBITS
+sh_flags:      SHF_ALLOC
+sh_addr:       0x7bc
+sh_offset:     1980
+sh_size:       60
+sh_link:       0
+sh_info:       0
+sh_addralign:  4
+sh_entsize:    0
+  

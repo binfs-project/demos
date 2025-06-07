@@ -1,0 +1,11 @@
+sh_name:       .gnu.hash
+sh_type:       SHT_GNU_HASH
+sh_flags:      SHF_ALLOC
+sh_addr:       0x298
+sh_offset:     664
+sh_size:       28
+sh_link:       5
+sh_info:       0
+sh_addralign:  8
+sh_entsize:    0
+  

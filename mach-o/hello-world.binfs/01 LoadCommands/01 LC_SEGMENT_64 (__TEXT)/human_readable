@@ -1,0 +1,11 @@
+      cmd LC_SEGMENT_64
+  cmdsize 392
+  segname __TEXT
+   vmaddr 0x00000100000000
+   vmsize 0x00000000004000
+  fileoff 0
+ filesize 16384
+  maxprot r-x
+ initprot r-x
+   nsects 4
+    flags (none)

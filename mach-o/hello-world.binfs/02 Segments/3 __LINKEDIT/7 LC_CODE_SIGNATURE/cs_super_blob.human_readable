@@ -1,0 +1,8 @@
+CS_SuperBlob
+    magic 0xfade0cc0 // CSMAGIC_EMBEDDED_SIGNATURE
+   length 408
+    count 1
+
+  CS_BlobIndex 0
+       type 0x00000000 // CSSLOT_CODEDIRECTORY
+     offset 20

@@ -1,0 +1,11 @@
+n_strx  __mh_execute_header
+n_type  N_SECT N_EXT
+n_sect  __TEXT,__text
+n_desc  16
+n_value 4294967296
+---
+n_strx  _main
+n_type  N_SECT N_EXT
+n_sect  __TEXT,__text
+n_desc  0
+n_value 4294983504

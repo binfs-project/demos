@@ -1,0 +1,11 @@
+sh_name:       86
+sh_type:       0x3
+sh_flags:      0x2
+sh_addr:       0x3a8
+sh_offset:     936
+sh_size:       148
+sh_link:       0
+sh_info:       0
+sh_addralign:  1
+sh_entsize:    0
+  

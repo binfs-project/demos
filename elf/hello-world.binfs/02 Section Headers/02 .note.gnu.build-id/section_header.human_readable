@@ -1,0 +1,11 @@
+sh_name:       .note.gnu.build-id
+sh_type:       SHT_NOTE
+sh_flags:      SHF_ALLOC
+sh_addr:       0x254
+sh_offset:     596
+sh_size:       36
+sh_link:       0
+sh_info:       0
+sh_addralign:  4
+sh_entsize:    0
+  

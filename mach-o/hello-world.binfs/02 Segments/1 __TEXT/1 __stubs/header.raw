@@ -1,0 +1,12 @@
+  sectname __stubs
+   segname __TEXT
+      addr 0x00000100003f8c
+      size 0x0000000000000c
+    offset 16268
+     align 2^2 (4)
+    reloff 0
+    nreloc 0
+     flags 0x80000408
+ reserved1 0
+ reserved2 12
+ reserved3 0

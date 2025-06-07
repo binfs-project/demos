@@ -1,0 +1,8 @@
+p_type:    NOTE
+p_flags:   R
+p_offset:  0x254
+p_vaddr:   0x254
+p_paddr:   0x254
+p_filesz:  0x44
+p_memsz:   0x44
+p_align:   0x4

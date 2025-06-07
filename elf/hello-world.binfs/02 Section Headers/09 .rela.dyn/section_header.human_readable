@@ -1,0 +1,11 @@
+sh_name:       .rela.dyn
+sh_type:       SHT_RELA
+sh_flags:      SHF_ALLOC
+sh_addr:       0x480
+sh_offset:     1152
+sh_size:       192
+sh_link:       5
+sh_info:       0
+sh_addralign:  8
+sh_entsize:    24
+  

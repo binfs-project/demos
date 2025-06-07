@@ -1,0 +1,11 @@
+sh_name:       .gnu.version_r
+sh_type:       SHT_GNU_VERNEED
+sh_flags:      SHF_ALLOC
+sh_addr:       0x450
+sh_offset:     1104
+sh_size:       48
+sh_link:       6
+sh_info:       1
+sh_addralign:  8
+sh_entsize:    0
+  

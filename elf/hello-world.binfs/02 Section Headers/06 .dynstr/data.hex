@@ -1,0 +1,10 @@
+03a8:   00 5f 5f 6c 69 62 63 5f  73 74 61 72 74 5f 6d 61   .__libc_start_ma
+03b8:   69 6e 00 5f 5f 63 78 61  5f 66 69 6e 61 6c 69 7a   in.__cxa_finaliz
+03c8:   65 00 70 72 69 6e 74 66  00 61 62 6f 72 74 00 6c   e.printf.abort.l
+03d8:   69 62 63 2e 73 6f 2e 36  00 47 4c 49 42 43 5f 32   ibc.so.6.GLIBC_2
+03e8:   2e 31 37 00 47 4c 49 42  43 5f 32 2e 33 34 00 5f   .17.GLIBC_2.34._
+03f8:   49 54 4d 5f 64 65 72 65  67 69 73 74 65 72 54 4d   ITM_deregisterTM
+0408:   43 6c 6f 6e 65 54 61 62  6c 65 00 5f 5f 67 6d 6f   CloneTable.__gmo
+0418:   6e 5f 73 74 61 72 74 5f  5f 00 5f 49 54 4d 5f 72   n_start__._ITM_r
+0428:   65 67 69 73 74 65 72 54  4d 43 6c 6f 6e 65 54 61   egisterTMCloneTa
+0438:   62 6c 65 00                                        ble.

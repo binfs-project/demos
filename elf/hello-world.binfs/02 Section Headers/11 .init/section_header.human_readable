@@ -1,0 +1,11 @@
+sh_name:       .init
+sh_type:       SHT_PROGBITS
+sh_flags:      SHF_ALLOC SHF_EXECINSTR
+sh_addr:       0x5b8
+sh_offset:     1464
+sh_size:       24
+sh_link:       0
+sh_info:       0
+sh_addralign:  4
+sh_entsize:    0
+  

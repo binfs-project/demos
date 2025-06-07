@@ -1,0 +1,11 @@
+sh_name:       .symtab
+sh_type:       SHT_SYMTAB
+sh_flags:      
+sh_addr:       0x0
+sh_offset:     65680
+sh_size:       2160
+sh_link:       27
+sh_info:       67
+sh_addralign:  8
+sh_entsize:    24
+  
