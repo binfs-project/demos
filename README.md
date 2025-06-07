@@ -10,3 +10,5 @@ To reproduce them locally [install the tool](https://binfs.dev/downloads/) and r
 clang hello-world.c -o hello-world
 binfs hello-world
 ```
+
+**P.S.** If you are seeing this on GitHub, hit the `.` on your keyboard to explore the demo using VSCode.
